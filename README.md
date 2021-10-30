@@ -1,6 +1,6 @@
 <!--DESCRIPTION-->
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ### Description
 
@@ -43,6 +43,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://www.linkedin.com/in/ratnakar-sahoo-a78401135"><img src="https://avatars.githubusercontent.com/u/80893583?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ratnakar Sahoo</b></sub></a><br /><a href="https://github.com/ratnakar5938/Sketch-filter/commits?author=ratnakar5938" title="Code">💻</a> <a href="#design-ratnakar5938" title="Design">🎨</a> <a href="#maintenance-ratnakar5938" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="https://kumarsanu8.github.io/NxtIN_Web/"><img src="https://avatars.githubusercontent.com/u/89582742?v=4?s=100" width="100px;" alt=""/><br /><sub><b>KUMAR SANU</b></sub></a><br /><a href="https://github.com/ratnakar5938/Sketch-filter/commits?author=KumarSanu8" title="Documentation">📖</a></td>
   </tr>
 </table>
 
