@@ -29,7 +29,3 @@ Remember to give the undertaking a star! Much appreciated once more!
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- CONTRIBUTORS LIST-->
-### Contributors
-
-* [Ratnakar Sahoo](https://github.com/ratnakar5938)
-* [Kumar Sanu](https://github.com/KumarSanu8/)
