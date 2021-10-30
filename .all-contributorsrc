@@ -15,6 +15,15 @@
         "design",
         "maintenance"
       ]
+    },
+    {
+      "login": "KumarSanu8",
+      "name": "KUMAR SANU",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89582742?v=4",
+      "profile": "https://kumarsanu8.github.io/NxtIN_Web/",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
