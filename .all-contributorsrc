@@ -1,0 +1,26 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "ratnakar5938",
+      "name": "Ratnakar Sahoo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/80893583?v=4",
+      "profile": "https://www.linkedin.com/in/ratnakar-sahoo-a78401135",
+      "contributions": [
+        "code",
+        "design",
+        "maintenance"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Sketch-filter",
+  "projectOwner": "ratnakar5938",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
